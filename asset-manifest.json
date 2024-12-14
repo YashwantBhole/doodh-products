@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/doodh-dairy/static/css/main.1dd72299.css",
-    "main.js": "/doodh-dairy/static/js/main.14a676a1.js",
+    "main.css": "/doodh-dairy/static/css/main.73cb98da.css",
+    "main.js": "/doodh-dairy/static/js/main.00c23568.js",
     "static/media/freshMilk.jpg": "/doodh-dairy/static/media/freshMilk.fe2e7fc633c0d26fb5cd.jpg",
     "static/media/paneer.jpg": "/doodh-dairy/static/media/paneer.a7184f2701172eedd052.jpg",
     "static/media/doodhDeary.jpg": "/doodh-dairy/static/media/doodhDeary.d070f384414c4ab35354.jpg",
@@ -14,11 +14,11 @@
     "static/media/Yogurt.jpg": "/doodh-dairy/static/media/Yogurt.7fbc00f533d20d64cc91.jpg",
     "static/media/landingImage.jpg": "/doodh-dairy/static/media/landingImage.6912226a91da8b9d7c40.jpg",
     "index.html": "/doodh-dairy/index.html",
-    "main.1dd72299.css.map": "/doodh-dairy/static/css/main.1dd72299.css.map",
-    "main.14a676a1.js.map": "/doodh-dairy/static/js/main.14a676a1.js.map"
+    "main.73cb98da.css.map": "/doodh-dairy/static/css/main.73cb98da.css.map",
+    "main.00c23568.js.map": "/doodh-dairy/static/js/main.00c23568.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dd72299.css",
-    "static/js/main.14a676a1.js"
+    "static/css/main.73cb98da.css",
+    "static/js/main.00c23568.js"
   ]
 }
