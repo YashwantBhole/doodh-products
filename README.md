@@ -2,6 +2,10 @@
 
 Welcome to **Doodh Dairy**, your one-stop solution for fresh and organic dairy products. Explore a variety of products including milk, yogurt, paneer, and more, all sourced directly from trusted farmers.
 
+
+## 🚀 Demo  
+https://yashwantbhole.github.io/doodh-products/
+
 ## 📋 Table of Contents
 - [About](#about)
 - [Features](#features)
